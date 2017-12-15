@@ -13,8 +13,6 @@ import javax.persistence.OneToOne;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
 
-import mum.edu.waa.fah.domain.Auction;
-import mum.edu.waa.fah.domain.User;
 
 public class Bid {
 	private static final long serialVersionUID = 1L;
